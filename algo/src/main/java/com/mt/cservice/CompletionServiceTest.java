@@ -47,7 +47,7 @@ public class CompletionServiceTest implements ITest {
 			}
 		});
 		// TODO Auto-generated method stub
-		
+
 		try {
 			System.out.println(completionService.take().get());
 			System.out.println(completionService.take().get());

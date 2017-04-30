@@ -2,6 +2,11 @@ package com.oracle.test.domain;
 
 import java.util.Date;
 
+/**
+ * 
+ * @author Hemant gaur
+ *
+ */
 public class PersonEntry {
 
 	final public int uid;
