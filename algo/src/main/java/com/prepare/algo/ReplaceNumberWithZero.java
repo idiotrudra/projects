@@ -1,7 +1,6 @@
 package com.prepare.algo;
 
 import java.util.Arrays;
-import java.util.LinkedHashMap;
 
 import com.algo.test.ITest;
 
@@ -19,7 +18,7 @@ public class ReplaceNumberWithZero implements ITest {
 					count++;
 				} else {
 					a[i] = 0;
-				}LinkedHashMap<K, V>
+				}
 			}
 
 		}
