@@ -9,7 +9,7 @@ import java.net.URL;
 public class Caller {
 
 	public String getRemoteResponse() throws IOException {
-		String url = "http://localhost:8080/";
+		String url = "https://tpc.googlesyndication.com/pagead/images/x_button_blue2.svg";
 
 		URL obj = new URL(url);
 		HttpURLConnection connection = (HttpURLConnection) obj.openConnection();
